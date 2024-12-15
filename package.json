@@ -1,0 +1,20 @@
+{
+  "name": "only-make",
+  "description": "✨ One-liner helper to initialize complex local dependent variable.",
+  "version": "9.9.9",
+  "license": "WTFPL",
+  "types": "index.d.ts",
+  "keywords": [
+    "only",
+    "make"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lamualfa/only-make.git"
+  },
+  "author": {
+    "name": "Laode Muhammad Al Fatih",
+    "email": "lamualfa@gmail.com",
+    "url": "https://github.com/lamualfa"
+  }
+}
